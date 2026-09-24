@@ -1,0 +1,4 @@
+.env
+*.db
+backend/data/*
+!backend/data/.gitkeep
